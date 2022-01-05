@@ -15,6 +15,6 @@ cd ANDROID-DEBLOATER
 C:\Users\user\Downloads\ANDROID-DEBLOATER> .\Debloat.bat <path to adb folder> <Debloat File name>
 ```
 
-## RESOUCES
+## RESOURCES
 
  - [SDK Platform Tools (Windows)](https://dl.google.com/android/repository/platform-tools-latest-windows.zip) - Android SDK Platform-Tools is a component for the Android SDK. It includes tools that interface with the Android platform, such as adb, fastboot, and systrace. These tools are required for Android app development. They're also needed if you want to unlock your device bootloader and flash it with a new system image.
